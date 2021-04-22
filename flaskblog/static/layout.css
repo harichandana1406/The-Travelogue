@@ -1,0 +1,15 @@
+﻿body {
+   
+    background-size: cover;
+
+}
+.nav-bar {
+    background: black;
+    color:white;
+    margin:0;
+    padding:10px;
+}
+.bon {
+    font-family: 'Playball';
+    font-size: 20px;
+}
