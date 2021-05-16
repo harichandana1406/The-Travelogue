@@ -1,7 +1,7 @@
 # The-Travelogue
 Travelling is a hobby for some people whereas for other it's a planned vacation.Travel blogs helps to plan your trip and allow you to visualize yourselves in the places travel blogger's talk about. It's a source of inspiration for destination search and vacation planning.
 
-At The Travelogue you find a community of travellers who share their exquisite experience they had with the places they've visited.Everyone won't be able to visit every destination in the world but we can certainly learn about places and people through travel blogger's stories.
+At The Travelogue you find a community of travelers who share their exquisite experience they had with the places they've visited.Everyone won't be able to visit every destination in the world but we can certainly learn about places and people through travel blogger's stories.
 
 Below are the screenshots of the Travel Blog website:
 ![Screenshot (1)](https://user-images.githubusercontent.com/56637185/115727883-a64c1c00-a3a1-11eb-827b-9344b44edcdb.png)
